@@ -21,7 +21,7 @@ author :
   pinterest: 
   linkedin: 
   resume: 
-  bio: bio info!
+  bio: so, it's cool!
   email_md5: cfe960593d776d7b397aec4db625c0a5
 
 # The production_url is only used when full-domain names are needed
@@ -89,13 +89,13 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : sanye
     livefyre :
-      site_id : 123
+      site_id : 
     intensedebate :
-      account : 123abc
+      account : 
     facebook :
-      appid : 123
+      appid : 
       num_posts: 5
       width: 580
       colorscheme: light
