@@ -8,14 +8,21 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap-3
-tagline: Site Tagline
+paginate: 10 #pagination based on number of posts
+paginate_path: "page:num"
+
+title : 三爷
+tagline: 我自狂歌向天笑，飞扬跋扈谁为雄。
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : 三爷
+  email : nozeryu@yeah.net
+  github : nozeryu
+  twitter : nozeryu
+  pinterest: 
+  linkedin: 
+  resume: 
+  bio: bio info!
+  email_md5: cfe960593d776d7b397aec4db625c0a5
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
